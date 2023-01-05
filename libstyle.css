@@ -1,0 +1,44 @@
+.container{
+    position: relative;
+    color: rgb(244, 238, 238);
+    display: inline-block;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+
+.textblock{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background-color: rgb(75, 72, 72);
+        font-size: 300%;
+        padding-left: 20px;
+}
+      
+
+.myForm{
+    padding-top: 1%;
+    padding-left: 50%;
+    
+}
+
+.myForm.formgroup{
+    padding-bottom: 1px;
+}
+
+.myForm label{
+    display: block;
+}
+
+#showcase{
+    background-image: url("lib1.jpg");
+    background-repeat: no-repeat;
+    background-position: center right;
+    background-size: cover;
+    min-height: 400px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+    

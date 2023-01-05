@@ -1,0 +1,14 @@
+.secondform{
+    padding-top: 1%;
+    padding-left: 45%;
+    
+}
+
+.secondform.formgroup{
+    padding-bottom: 1px;
+}
+
+.secondform label{
+    display: block;
+}
+
